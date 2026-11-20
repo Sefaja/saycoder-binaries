@@ -1,19 +1,19 @@
 {
-  "version": "1.2.3",
-  "notes": "Saycoder 1.2.3",
-  "pub_date": "2026-11-04T16:59:57Z",
+  "version": "1.2.4",
+  "notes": "Saycoder 1.2.4: the Windows app executable is now code-signed.",
+  "pub_date": "2026-11-20T16:19:18Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVST3VFK2lRYUFlTHVIb1pyVEtZejhSSkptQm9DaDYvT2hWNjNzSUtZTHRjaWE0M2RhNG96aStheWU5VjhFM2UvQ01DbXRSZWFRY2FHbThUWTFrUFFta25rdUdZOHNGcEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODEwNzI2CWZpbGU6U2F5Y29kZXJfMS4yLjNfeDY0LXNldHVwLmV4ZQpacVd5dmdJQkFlSGtIZ2RDZkttckkwNW9BQmMxd0dIQkJSSi9aRnhZdlJ0aHJhNklNU2YydUt6ZXloWWRDZXlwSE9PeWtFaEttbXdjdTFKd3FLd1NEZz09Cg==",
-      "url": "https://github.com/Sefaja/saycoder-binaries/releases/download/v1.2.3/Saycoder-1.2.3-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVST3VFK2lRYUFlTGlWU1QvdmN6WTZsZnpEbkFLTEhaWXA4QTJCaVRJMFpmbzltY2YrZTlkRGV6WXNSY3c3WXdMam92R1BPTVRORXVxL05ZQmtZVUJsZ25RcXdRdDF3WFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTkwNTAzCWZpbGU6U2F5Y29kZXJfMS4yLjRfeDY0LXNldHVwLmV4ZQpUYmkwK2xpblZ3NWx2SXBOVlRvcFI2RUllVTRxaUNrTXVRTVhtMnhsR0wrY1lCWGo2Y2lUNWUzdVVRMjVCMVlqNnFPOHF2Y3pFVExDUS9KcU9iUVhBdz09Cg==",
+      "url": "https://github.com/Sefaja/saycoder-binaries/releases/download/v1.2.4/Saycoder-1.2.4-x64-setup.exe"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVST3VFK2lRYUFlTG9kTi9oeUlOOURaS1ZMOGNsdmpmRWE4d0JFb3RnNVhhbTd1RFllbkcwT0Z0VEFFZWF6eVQ2TnNFZVpzTHZZM1VDSWhEb08rU0o1TitWVzd1QnBwZkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODEwOTkyCWZpbGU6U2F5Y29kZXIuYXBwLnRhci5negpyTEZLWW5kanNoV1llZzZET29paDFxTmRORm40K2U2TTFlSWZmV1BOMlFnNG5oVEdLT2x5MXdXRVFJWGtpVVVHdVFucmRKYnlRRCtqVm1JTlR2Y1REdz09Cg==",
-      "url": "https://github.com/Sefaja/saycoder-binaries/releases/download/v1.2.3/Saycoder-1.2.3-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVST3VFK2lRYUFlTG1lRUxHa3pEd1J5UGVGb2dHMG5UVlQ4ZXFBOEN0TnZGdHJ3K1ZnQnJ0RHYxLzJ2RWtPZXFUeXdBNFlEeU05b3h5bjJ5VlZqRk9pYzg2WGJDc20zaVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTkwNzcwCWZpbGU6U2F5Y29kZXIuYXBwLnRhci5negpBcnFCL3YyM3FUdGUzeGMyMjZQVFdBV0Y4RWdnR2YrY0pRdW1KYkM1cHRGZXBiQW01SWdJUk5IZHFWYWY2TThSZlVzM01VVVlIaUUxa2g2NlQ1WHpDdz09Cg==",
+      "url": "https://github.com/Sefaja/saycoder-binaries/releases/download/v1.2.4/Saycoder-1.2.4-aarch64.app.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVST3VFK2lRYUFlTHA3YlBsUktXeXJCendaZFQyb2RncnlDK2FZVzhzdDN0cWZuSTRRNFRJcTM3c085WUJ5VVppY2JVSUZ3aGdiOTJQL2xNb1dCMXk1YXhaaE10dlpmQnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODExNTg2CWZpbGU6U2F5Y29kZXItMS4yLjMteDg2XzY0LkFwcEltYWdlCms4MXZrMDJFby95NzBaV0YxaXBxYVRYZlhGNDQ4NEoyMmpvbUptRkE3ZzRPQnlBUE94K0RrdTg2T0xiWHpOTTJGZGJYVCt1SkZENkxnYVFheFVTZERnPT0K",
-      "url": "https://github.com/Sefaja/saycoder-binaries/releases/download/v1.2.3/Saycoder-1.2.3-x86_64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVST3VFK2lRYUFlTGdlRmdkTDBPRWh3NGRMQlA0T3ErTWF0MDVzL1ExNDM2R3RYYWF0WUdxVlhzRjBJelhIRDltcXJhUCtDUHNOQ1Vyb2syTEdzUWVKQU1zN1k4aDZFa1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTkxNTIwCWZpbGU6U2F5Y29kZXItMS4yLjQteDg2XzY0LkFwcEltYWdlCnRLcG5RRTdSL051VzFHNjBtaG5sQ0NaMVA5VGIzcXpZTXpYT0lvdW1jcTJ1ekYxR3I0a3lCQi9nNm0xbXc5VzdFZ3JuTlkwanRPeXAzTWpFV1ltTUNRPT0K",
+      "url": "https://github.com/Sefaja/saycoder-binaries/releases/download/v1.2.4/Saycoder-1.2.4-x86_64.AppImage"
     }
   }
 }
